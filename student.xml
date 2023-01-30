@@ -1,0 +1,92 @@
+<?xml version = "1.0" encoding ="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="student.xsl"?>
+<class>
+    <student>
+            <name> Nikhil Kumar </name>
+            <roll> 2022178001 </roll>
+            <course> MCA </course>
+            <gender> Male</gender>
+            <age> 22 </age>
+            <hobbie>Playing Cricket</hobbie>
+    </student>
+    <student>
+            <name> Mukhil </name>
+            <roll> 2022178002 </roll>
+            <course> MCA </course>
+            <gender> Male</gender>
+            <age> 21 </age>
+            <hobbie>Playing Cricket</hobbie>
+    </student>
+    <student>
+            <name> Anisha  </name>
+            <roll> 2022178003 </roll>
+            <course> MCA </course>
+            <gender> Female</gender>
+            <age> 20 </age>
+            <hobbie> Singing </hobbie>
+    </student>
+    <student>
+            <name> Pooja  </name>
+            <roll> 2022178009 </roll>
+            <course> MCA </course>
+            <gender> Female</gender>
+            <age> 23 </age>
+            <hobbie> Dancing </hobbie>
+    </student>
+    <student>
+            <name> Kalatmika  </name>
+            <roll> 2022178019 </roll>
+            <course> MCA </course>
+            <gender> Female</gender>
+            <age> 22 </age>
+            <hobbie> Dancing </hobbie>
+    </student>
+    <student>
+            <name> Rajat Verma  </name>
+            <roll> 2022178020 </roll>
+            <course> MCA </course>
+            <gender> Male </gender>
+            <age> 21 </age>
+            <hobbie> Writing Poems </hobbie>
+    </student>
+    <student>
+            <name> Manoj  </name>
+            <roll> 2022178021 </roll>
+            <course> MCA </course>
+            <gender> Male </gender>
+            <age> 23 </age>
+            <hobbie> Playing Football </hobbie>
+    </student>
+    <student>
+            <name> Suyash Kant  </name>
+            <roll> 2022178031 </roll>
+            <course> MCA </course>
+            <gender> Male</gender>
+            <age> 22 </age>
+            <hobbie> Coding </hobbie>
+    </student>
+    <student>
+            <name> Siddharth  </name>
+            <roll> 2022178035 </roll>
+            <course> MCA </course>
+            <gender> Male</gender>
+            <age> 22 </age>
+            <hobbie> Dancing </hobbie>
+    </student>
+    <student>
+            <name> Aman Kumar  </name>
+            <roll> 2022178056 </roll>
+            <course> MCA </course>
+            <gender> Male</gender>
+            <age> 21 </age>
+            <hobbie> Dancing </hobbie>
+    </student>
+    <student>
+            <name> Vishal  </name>
+            <roll> 2022178057 </roll>
+            <course> MCA </course>
+            <gender> Male </gender>
+            <age> 22 </age>
+            <hobbie> Playing Badminton </hobbie>
+    </student>
+</class>
